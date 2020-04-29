@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : Alex Git Blog
+title                    : "Alex Git Blog"
 title_separator          : "---"
-subtitle                 : "aaaa"
+subtitle                 : "Java, Backend Develop"
 name                     : "Alex Choi"
 description              : "dev"
 url                      : "https://haveagood.github.io"
