@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Alex Git Blog"
+title_separator          : "---"
+subtitle                 : "aaaa"
 name                     : "Alex Choi"
 description              : "dev"
 url                      : "https://haveagood.github.io"
